@@ -3,10 +3,10 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `voornaam + achternaam`
-* **Klas:** `vid-1/vid-2`
+* **Naam:** `Kaylee Heilijgers`
+* **Klas:** `vid-1`
 * **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Zeeotters zijn te gek!`
+* **Favoriete dier:** `Ik kan niet zonder katten leven`
 * **Startniveau:** `blauw/rood/zwart`
 
 ## Concept
