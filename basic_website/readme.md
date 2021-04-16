@@ -27,7 +27,7 @@ Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heef
 
 `Schrijf hier een klein logboekje met je voortgang per week.`
 
-### Week-1
+### Week-1 | 12 april tot 16 april
 Deze week heb ik vooral ondezoek gedaan naar "Generative art/creative coding". Dit heb ik gedaan door op Pinterest op deze termen te gaan zoeken. Daarnaast heb ik in de p5.js showcase naar voorbeelden gezocht. Hierna ben ik gaan nadenken over hoe ik deze opdracht zelf ga invullen. Ik heb mijn hobby's en interesses erbij gepakt. Na lang nadenken heb ik ervoor gekozen om op mijn sport kickboksen in te gaan. Dit omdat ik deze sport erg mis aangezien ik deze al een tijd niet kan uitoefenen door de corona-maatregelen.
 
 Mijn Pinterest bord:
@@ -37,12 +37,20 @@ Mijn ideetjes:
 [FOTO]
 
 
-### Week-2
+### Week-2 | 19 april tot 23 april
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
-### Week-3
+### Week-3 | 26 april tot 30 april
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
+### Week-4 | Vakantie
+`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+
+### Week-5 | 10 mei tot 14 mei
+`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+
+### Week-6 | 17 mei tot 20 mei | Eindbeoordeling
+`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
 
 ## Bronnenlijst
 
