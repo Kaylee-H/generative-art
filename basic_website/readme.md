@@ -25,8 +25,6 @@ Over het hele scherm zullen er woorden zweven, woorden van frustraties. Wanneer 
 
 ## Voortang
 
-`Schrijf hier een klein logboekje met je voortgang per week.`
-
 ### Week-1 | 12 april tot 16 april
 Deze week heb ik vooral ondezoek gedaan naar "Generative art/creative coding". Dit heb ik gedaan door op Pinterest op deze termen te gaan zoeken. Daarnaast heb ik in de p5.js showcase naar voorbeelden gezocht. Hierna ben ik gaan nadenken over hoe ik deze opdracht zelf ga invullen. Ik heb mijn hobby's en interesses erbij gepakt. Na lang nadenken heb ik ervoor gekozen om op mijn sport kickboksen in te gaan. Dit omdat ik deze sport erg mis aangezien ik deze al een tijd niet kan uitoefenen door de corona-maatregelen.
 
