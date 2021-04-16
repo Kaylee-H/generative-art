@@ -31,7 +31,6 @@ Tijdens mijn onderzoek ben ik veel voorbeelden gaan opzoeken, omdat het nog erg 
 * http://latostadorano.com/yesNoBot.html
 * https://virus-simulation.glitch.me/
 * https://editor.p5js.org/cereqej/present/ueUE2Couq
-\
 * https://twentytwenty.surge.sh/
 * https://editor.p5js.org/cdacanay/present/rrRFuvb2
 * http://modalflow.baltazarperez.com/
