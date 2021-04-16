@@ -34,10 +34,9 @@ Mijn Pinterest bord:
 https://nl.pinterest.com/KaylHeilijgers/-generative-art/
 
 Mijn ideetjes:
-![IMG_4446](https://user-images.githubusercontent.com/78274513/115017678-2b719580-9eb7-11eb-84af-8be07ee76a99.JPG)
 
-![IMG_4447](https://user-images.githubusercontent.com/78274513/115017683-2dd3ef80-9eb7-11eb-8f21-3f80e9151263.JPG)
 
+<img src="https://user-images.githubusercontent.com/78274513/115018521-3da00380-9eb8-11eb-8273-0b16b87f64f2.JPG" width="200" height="300">
 
 ### Week-2 | 19 april tot 23 april
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
