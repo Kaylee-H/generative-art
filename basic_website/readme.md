@@ -30,6 +30,8 @@ Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heef
 ### Week-1 | 12 april tot 16 april
 Deze week heb ik vooral ondezoek gedaan naar "Generative art/creative coding". Dit heb ik gedaan door op Pinterest op deze termen te gaan zoeken. Daarnaast heb ik in de p5.js showcase naar voorbeelden gezocht. Hierna ben ik gaan nadenken over hoe ik deze opdracht zelf ga invullen. Ik heb mijn hobby's en interesses erbij gepakt. Na lang nadenken heb ik ervoor gekozen om op mijn sport kickboksen in te gaan. Dit omdat ik deze sport erg mis aangezien ik deze al een tijd niet kan uitoefenen door de corona-maatregelen.
 
+Deze week was al gelijk pittig voor mij, het duurde vrij lang voor ik eindelijk wat ideetjes had opgeschreven. Om hier vervolgens weer een goed concept uit te halen. Dit kwam vooral doordat het begrip Generative art/creative coding nog nieuw voor mij was. Ik moest even inkomen. Gelukkig lukte het mij alsnog om aan het eind van de week een concept te vormen. Nu moet ik nog bekijken hoe ik dit ga realiseren via Javascript.
+
 Mijn Pinterest bord:
 https://nl.pinterest.com/KaylHeilijgers/-generative-art/
 
