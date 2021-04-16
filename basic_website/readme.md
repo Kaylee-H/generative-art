@@ -3,16 +3,16 @@
 # Procesverslag
 
 ## Over
-* **Naam:** `Kaylee Heilijgers`
-* **Klas:** `vid-1`
-* **Minor:** `Visual Interface Design`
-* **Favoriete dier:** `Ik kan niet zonder katten leven`
-* **Startniveau:** `blauw/rood/zwart`
+* **Naam:** Kaylee Heilijgers
+* **Klas:** vid-1
+* **Minor:** Visual Interface Design
+* **Favoriete dier:** "Ik kan niet zonder katten leven"
+* **Startniveau:** blauw
 
 ## Concept
 
-* **"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**
-* Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties.
+**"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**\
+Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties.
 
 
 
