@@ -33,7 +33,7 @@ Deze week was al gelijk pittig voor mij, het duurde vrij lang voor ik eindelijk 
 Mijn Pinterest bord:
 https://nl.pinterest.com/KaylHeilijgers/-generative-art/
 
-Mijn ideetjes:
+Mijn ideetjes:\
 <img src="https://user-images.githubusercontent.com/78274513/115018521-3da00380-9eb8-11eb-8273-0b16b87f64f2.JPG" width="200" height="300">
 <img src="https://user-images.githubusercontent.com/78274513/115018679-717b2900-9eb8-11eb-9ac1-53cbfec92380.JPG" width="200" height="300">
 
