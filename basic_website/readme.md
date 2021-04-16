@@ -13,8 +13,8 @@
 
 `Beschrijf in het algemeen je concept van je project.`
 
-**"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**
-Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties.
+* **"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**
+* Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties.
 
 
 
