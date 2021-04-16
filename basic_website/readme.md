@@ -12,8 +12,8 @@
 ## Concept
 
 **"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**\
-Het laatste jaar liggen de frustraties hoog. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties.
-
+Het laatste jaar liggen de frustraties hoog bij iedereen. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties. Via de sport kickboksen kon ik altijd goed mijn frustraties kwijt, ik kon ze er uit slaan en trappen. Helaas kan ik al enige tijd deze sport niet meer uitoefenen als gevolg van de corona-maatregelen.Ik hoor steeds meer mensen die last hebben van de opbouwende frustraties. Dit wilde ik graag door een soort game verlichten, in combinatie met de sport kickboksen. \
+Over het hele scherm zullen er woorden zweven, woorden van frustraties. Wanneer je op zo een woord klik zal je het woord slaan of schoppen, het woord verdwijnt. Dit door een explosie of een afdruk van de schop. Hierbij kunnen de bezoekers ook hun eigen woorden toevoegen en vervolgens vernietigen. Hierbij zit ik nog te denken aan een soort puntensysteem. Hoe meer woorden je heb vernietigd, hoe meer punten je hebt verzameld.
 
 
 ## Features
