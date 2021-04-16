@@ -21,7 +21,7 @@ Over het hele scherm zullen er woorden zweven, woorden van frustraties. Wanneer 
 `Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
 
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`
+`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`\
 Tijdens mijn onderzoek ben ik veel voorbeelden gaan opzoeken, omdat het nog erg onbekend terrein is voor mij. De volgende linkjes heb ik opgeslagen, omdat deze mij inspireerde of aanspraken:
 * https://timrodenbroeker.de/the-bach-project/
 * https://www.behance.net/gallery/60533777/MAIN-FIELD
