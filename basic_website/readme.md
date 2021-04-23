@@ -13,14 +13,20 @@
 
 **"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**\
 _Concept 2.0:_\
-Al een aantal jaar doe ik aan de sport kickboksen. Ik kan heerlijk mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger. 
+Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger. 
 
 \
-De interface die ik ga maken word geheel in dit thema ontworpen. De bezoeker kan uit verschillende trainingen kiezen. Wanneer ze een keuze hebben gemaakt zien ze vooral hoekige vormen in beeld komen. Deze vormen worden op het tempo van de training kapot geslagen. Hierbij maak ik gebruik van kickbokstrainingen die ik zelf heb gedaan of doe. De figuren langzaam en worden explosief (net als kickboksen) kapot geslagen of geschhopt.
+De interface die ik ga maken word geheel in dit thema ontworpen. De bezoeker kan uit verschillende trainingen kiezen. Wanneer ze een keuze hebben gemaakt zien ze vooral hoekige vormen in beeld komen. Deze vormen worden op het tempo van de training kapot geslagen. Hierbij maak ik gebruik van kickbokstrainingen die ik zelf heb gedaan of doe. De figuren langzaam en worden explosief (net als kickboksen) kapot geslagen of geschopt.
+
+( De bezoeker kan invullen hoeveel slagen of schoppen er moeten komen. Elke slag of schop vormt een ander figuur, al deze figuren bij elkaar vormen een eigen kunstwerk. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven )
+\
+
+( De bezoeker kan kiezen tussen een aantal slagen of schoppen, maar deze word elke keer op een andere manier vormgegeven. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven)
 
 \
 _Concept 1.0:_\
-Het laatste jaar liggen de frustraties hoog bij iedereen. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties. Via de sport kickboksen kon ik altijd goed mijn frustraties kwijt, ik kon ze er uit slaan en trappen. Helaas kan ik al enige tijd deze sport niet meer uitoefenen als gevolg van de corona-maatregelen.Ik hoor steeds meer mensen die last hebben van de opbouwende frustraties. Dit wilde ik graag door een soort game verlichten, in combinatie met de sport kickboksen. \
+Het laatste jaar liggen de frustraties hoog bij iedereen. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties. Via de sport kickboksen kon ik altijd goed mijn frustraties kwijt, ik kon ze er uit slaan en trappen. Helaas kan ik al enige tijd deze sport niet meer uitoefenen als gevolg van de corona-maatregelen.Ik hoor steeds meer mensen die last hebben van de opbouwende frustraties. Dit wilde ik graag door een soort game verlichten, in combinatie met de sport kickboksen. 
+\
 Over het hele scherm zullen er woorden zweven, woorden van frustraties. Wanneer je op zo een woord klik zal je het woord slaan of schoppen, het woord verdwijnt. Dit door een explosie of een afdruk van de schop. Hierbij kunnen de bezoekers ook hun eigen woorden toevoegen en vervolgens vernietigen. Hierbij zit ik nog te denken aan een soort puntensysteem. Hoe meer woorden je heb vernietigd, hoe meer punten je hebt verzameld.
 
 
@@ -61,7 +67,7 @@ Mijn ideetjes:\
 <img src="https://user-images.githubusercontent.com/78274513/115018679-717b2900-9eb8-11eb-9ac1-53cbfec92380.JPG" width="200" height="300">
 
 ### Week-2 | 19 april tot 23 april
-Deze week heb ik mijn concept aangescherpt enn ook veranderd. Het eerste idee was met woorden die rond zweven, maar dit wilde ik eigenlijk niet te letterlijk doen. Hierbij kwam ik er achter dat ik op Pinterest vooral de hoekige vormen enzovoort erg leuk vond, wat natuurlijk met p5.js gemaakt is. Deze twee dingen heb ik dan ook gecombineerd. Eigenlijk had ik deze al moeten beginnen met het maken van mijn concept, maar ik ben blij dat ik hem eerst nog heb kunnen aanpassen. Nu kan ik mij volledig focussen op het coderen ervan.
+Deze week heb ik mijn concept aangescherpt en ook veranderd. Het eerste idee was met woorden die rond zweven, maar dit wilde ik eigenlijk niet te letterlijk doen. Hierbij kwam ik er achter dat ik op Pinterest vooral de hoekige vormen enzovoort erg leuk vond, wat natuurlijk met p5.js gemaakt is. Deze twee dingen heb ik dan ook gecombineerd. Eigenlijk had ik deze al moeten beginnen met het maken van mijn concept, maar ik ben blij dat ik hem eerst nog heb kunnen aanpassen. Nu kan ik mij volledig focussen op het coderen ervan.
 
 ### Week-3 | 26 april tot 30 april
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
