@@ -16,10 +16,10 @@ _Concept 2.0:_\
 Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger. 
 \
 De interface die ik ga maken word geheel in dit thema ontworpen. De bezoeker kan uit verschillende trainingen kiezen. Wanneer ze een keuze hebben gemaakt zien ze vooral hoekige vormen in beeld komen. Deze vormen worden op het tempo van de training kapot geslagen. Hierbij maak ik gebruik van kickbokstrainingen die ik zelf heb gedaan of doe. De figuren langzaam en worden explosief (net als kickboksen) kapot geslagen of geschopt.
+_
+_( De bezoeker kan invullen hoeveel slagen of schoppen er moeten komen. Elke slag of schop vormt een ander figuur, al deze figuren bij elkaar vormen een eigen kunstwerk. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven )_
 
-_( De bezoeker kan invullen hoeveel slagen of schoppen er moeten komen. Elke slag of schop vormt een ander figuur, al deze figuren bij elkaar vormen een eigen kunstwerk. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven )
-
-( De bezoeker kan kiezen tussen een aantal slagen of schoppen, maar deze word elke keer op een andere manier vormgegeven. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven)_
+_( De bezoeker kan kiezen tussen een aantal slagen of schoppen, maar deze word elke keer op een andere manier vormgegeven. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven)__
 
 \
 _Concept 1.0:_\
