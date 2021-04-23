@@ -78,9 +78,3 @@ Deze week heb ik mijn concept aangescherpt en ook veranderd. Het eerste idee was
 
 ### Week-6 | 17 mei tot 20 mei | Eindbeoordeling
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
-
-## Bronnenlijst
-
-* `Link naar bron 1`
-* `Link naar bron 2`
-* `Link naar bron 3`
