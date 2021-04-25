@@ -50,7 +50,7 @@ Tijdens mijn onderzoek ben ik veel voorbeelden gaan opzoeken, omdat het nog erg 
 * https://graphicbeats.net/
 \
 
-Hierna ben ik gaan nadenken hoe ik dit persoonlijk kan maken. Op mijn Pinterest bord had ik vooral  grafische vormen opgeslagen. Waarbij deze soms wel bewegen en soms juist heel statisch zijn. Ze strakke lijnen waren een terugkerend onderdeel. Tijdens het brainstormen trok ik snel de link tussen de strakke lijnen en kickboksen. De lijnen zijn strak, hoekig en vaak met veel contrast afgebeeld. De sport kickboksen is ook vrij strak en hoekig. Waarbij je afwisseld van zachte slagen tot explosievere slagen. 
+Hierna ben ik gaan nadenken hoe ik dit persoonlijk kan maken. Op mijn Pinterest bord had ik vooral  grafische vormen opgeslagen. Waarbij deze soms wel bewegen en soms juist heel statisch zijn. Ze strakke lijnen waren een terugkerend onderdeel. Tijdens het brainstormen trok ik snel de link tussen de strakke lijnen en kickboksen. De lijnen zijn strak, hoekig en vaak met veel contrast afgebeeld. De sport kickboksen is ook vrij strak en hoekig. Waarbij je afwisseld van zachte slagen tot explosievere slagen. Zo kan ik goed mijn trainingen visueel maken door middel van Generative Art.
 
 
 ## Voortang
