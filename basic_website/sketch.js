@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(300);
   ellipse(width / 2, height / 2, 50, 50);
 }
 
