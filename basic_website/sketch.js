@@ -5,11 +5,42 @@ function setup() {
 }
 
 function draw() {
-  background(200);
-  Rect (witdh / 2, height / 2, 50, 50);
-
+  background(150);
+  stroke(255);
+  strokeWeight (5);
+  noFill();
+  rectMode(CENTER);
+  rect(windowWidth / 2, windowHeight /2, 300, 300);
 }
 
+
+// If (mouseX > 200) {
+// 	Elipse (300,200,100,100);
+// } else {						
+// Rect (300,200,100,100)
+// }
+
+
+// function draw() {
+//   background(0);
+//   color(0);
+//   stroke (100,80,100);
+//   strokeWeight (7);
+  
+//   rect(windowWidth / 2 , windowHeight / 2, 150, 150);
+// }
+
+
+// // HSL color can also be specified by value
+// let c = color('hsl(160, 100%, 50%)');
+// noStroke();
+// fill(c);
+// rect(0, 10, 45, 80); // Draw rectangle
+// c = color('hsla(160, 100%, 50%, 0.5)');
+// fill(c);
+// rect(55, 10, 45, 80); // Draw rectangle
+
+// }
 
 
 
@@ -58,6 +89,6 @@ function draw() {
 
 // }
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
+// function windowResized() {
+//   resizeCanvas(windowWidth, windowHeight);
+// }
