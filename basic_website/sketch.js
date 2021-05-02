@@ -12,6 +12,7 @@
 //   rect(windowWidth / 2, windowHeight /2, 300, 300);
 // }
 
+
 function setup() { 
   createCanvas(windowWidth, windowHeight);
 
@@ -40,7 +41,7 @@ function draw() {
 
 }
 
-
+  
 
 /* 3D-box*/
 //   let locX = mouseX - height / 2;
