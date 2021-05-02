@@ -4,7 +4,7 @@
 
 ## Over
 * **Naam:** Kaylee Heilijgers
-* **Klas:** vid-1
+* **Klas:** VID-1
 * **Minor:** Visual Interface Design
 * **Favoriete dier:** "Ik kan niet zonder katten leven"
 * **Startniveau:** 
@@ -15,12 +15,7 @@
 _Concept 2.0:_\
 Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger. 
 \
-De interface die ik ga maken word geheel in dit thema ontworpen. Op de interface zal in verschillende trainingen visueel uitbeelden. De bezoeker kan uit verschillende trainingen kiezen. Wanneer ze een keuze hebben gemaakt zien ze vooral hoekige vormen in beeld komen. Deze vormen worden op het tempo van de training kapot geslagen. Hierbij maak ik gebruik van kickbokstrainingen die ik zelf heb gedaan of doe. De figuren verschijnen langzaam en worden explosief (net als kickboksen) kapot geslagen of geschopt.
-
-\
-_( De bezoeker kan invullen hoeveel slagen of schoppen er moeten komen. Elke slag of schop vormt een ander figuur, al deze figuren bij elkaar vormen een eigen kunstwerk. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven )_
-
-_( De bezoeker kan kiezen tussen een aantal slagen of schoppen, maar deze word elke keer op een andere manier vormgegeven. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven)_
+Op mijn interface krijgt de bezoeker eerst de keuze tussen 2 vormen, een vierkant of een cirkel. De vierkant staat voor grote frustraties en de cirkel voor kleinere. De vierkant heeft namelijk een hardere vorm dan de ronde vorm van de cirkel. Wanneer de bezoeker een keuze heeft gemaakt ziet diegene het figuur in 3D. Dit 3D-figuur beweegt/draait om zijn eigen as. Deze beweging is de beweging die je maakt tijdens een kickbokstraining. Wanneer ik een zaktraining volg dan beweeg ik, maar blijf ik altijd op mijn plek staan. Wanneer je [TRIGGER] zal de explosie van start gaan. Deze explosie is de explosie van een trap of slag. Hieruit komt een generatief partoon/kunstwerk. Elke keer wanneer de bezoeker de [TRIGGER] zal er een andere uitkomst uitkomen.
 
 \
 _Concept 1.0:_\
