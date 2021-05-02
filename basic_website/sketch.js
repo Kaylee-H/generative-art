@@ -24,7 +24,7 @@ function setup() {
 function draw() {
   background(0);
 
-//   // *** colorblock + mouseposition - color change *** //
+//   // *** HOMEPAGE: CHOOSE ONE *** //
 //   if (mouseX < width/2) {
 //   translate (-width /2,-height/2,0);
 //   fill(0);
@@ -54,45 +54,51 @@ function draw() {
   // noStroke();
   // text("WHICH EXPLOSION?", width/3, 100);
 
-// // *** 3D BOX: MOVING *** //
-//   let lightX = mouseX - height / 2;
-//   let lightY = mouseY - width / 2;
+// *** 3D BOX: MOVING *** //
+  let lightX = mouseX - height / 2;
+  let lightY = mouseY - width / 2;
 
-//   ambientLight(255);
-//   directionalLight (250,250,250,2,2,2);
-//   pointLight (255,255,255,lightX,lightY,255);
+  ambientLight(255);
+  directionalLight (250,250,250,2,2,2);
+  pointLight (255,255,255,lightX,lightY,255);
 
-//   fill(255,0,0);
-//   rotateX(frameCount * 0.01);
-//   rotateY(frameCount * 0.01);
-//   box(100);
+  fill(255,0,0);
+  rotateX(frameCount * 0.01);
+  rotateY(frameCount * 0.01);
+  box(100);
 
-//   fill(0,0,255);
-//   rotateX(frameCount * 0.03);
-//   rotateY(frameCount * 0.01);
-//   box(100);
+  fill(0,0,255);
+  rotateX(frameCount * 0.03);
+  rotateY(frameCount * 0.01);
+  box(100);
 
-//   fill(100,100,100);
-//   rotateX(frameCount * 0.01);
-//   rotateY(frameCount * 0.02);
-//   box(100);
+  fill(100,100,100);
+  rotateX(frameCount * 0.01);
+  rotateY(frameCount * 0.02);
+  box(100);
 
-// * 3D CIRKEL: MOVING * //
+// * 3D CYLINDER: MOVING * //
+// let lightX = mouseX - height / 2;
+// let lightY = mouseY - width / 2;
 
-fill(255,0,0);
-rotateX(frameCount * 0.01);
-rotateY(frameCount * 0.02);
-cylinder(100, 70, 16, detailY.value());
+// ambientLight(255);
+// directionalLight (250,250,250,2,2,2);
+// pointLight (255,255,255,lightX,lightY,255);
 
-fill(0,0,255);
-rotateX(frameCount * 0.01);
-rotateY(frameCount * 0.02);
-cylinder(90, 70, 16, detailY.value());
+// fill(255,0,0);
+// rotateX(frameCount * 0.01);
+// rotateY(frameCount * 0.02);
+// cylinder(100, 70, 16, detailY.value());
 
-fill(100,100,100);
-rotateX(frameCount * 0.01);
-rotateY(frameCount * 0.02);
-cylinder(80, 70, 16, detailY.value());
+// fill(0,0,255);
+// rotateX(frameCount * 0.01);
+// rotateY(frameCount * 0.02);
+// cylinder(90, 70, 16, detailY.value());
+
+// fill(100,100,100);
+// rotateX(frameCount * 0.01);
+// rotateY(frameCount * 0.02);
+// cylinder(80, 70, 16, detailY.value());
 
 
 }
