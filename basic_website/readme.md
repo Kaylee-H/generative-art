@@ -71,10 +71,18 @@ Mijn ideetjes:\
 Deze week heb ik mijn concept aangescherpt en ook veranderd. Het eerste idee was met woorden die rond zweven, maar dit wilde ik eigenlijk niet te letterlijk doen. Hierbij kwam ik er achter dat ik op Pinterest vooral de hoekige vormen enzovoort erg leuk vond, wat natuurlijk met p5.js gemaakt is. Deze twee dingen heb ik dan ook gecombineerd. Eigenlijk had ik deze al moeten beginnen met het maken van mijn concept, maar ik ben blij dat ik hem eerst nog heb kunnen aanpassen. Nu kan ik mij volledig focussen op het coderen ervan.
 
 ### Week-3 | 26 april tot 30 april
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Ook deze week ging wat minder soepel dan verwacht. In mijn ogen was het concept nog niet helemaal af, ik was er niet tevreden mee en zag het nog niet voor mij. Tijdens de feedbackles heb ik dan ook mijn kans benut en hier wat vragen overgesteld. Samen met Danny heb ik mijn concept meer vormgegeven en concreet gemaakt.\
+Om het concept voor ogen te krijgen voor mijzelf heb ik wat schetsen gemaakt waar ik mij goed aan kan houden tijdens het coderen:\
+FOTO 1 [HOME PAGE MET KEUZE TUSSEN TWEE VORMEN / KLEUREN]\
+FOTO 2 [DE VORM IN 3D GEMAAKT, BEWEGEND]\
+FOTO 3 [EVENTUELE INSTRUCTIES VOOR BEZOEKERS]\
+FOTO 4 [DE VORM DIE MET EEN EXPLOSIE TOT EEN GENERATIEVE POLYGON RESULTEERT]\
+FOTO 5 [TERUGPAGINA / BUTTON]\
+
+Helaas dringt de tijd wel en moet ik veel vaart maken in het coderen van mijn concept. Hard aan de slag dus.
 
 ### Week-4 | Vakantie
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Tijdens het coderen heb ik wat ups en downs gehad, zoals verwacht natuurlijk. Oneindig veel YouTube-video's kijken en Google helpen mij wel goed op weg. Toch blijft het nog een lastig vak. Na een slechte dag, van de hele dag coderen en bij het zelfde punt als aan het begin van de dag te eindigen, heb ik het roer om gegooid. Ik focus mij eerst op de losse onderdelen. Eerst maak ik de homepage met de keuzes en een hover. Vervolgens maak ik de pagina met de 3D vormen en dan de pagina met de generatieve explosie. Hierna ga ik pas goed kijken hoe ik deze onderdelen aan elkaar kan koppelen. Hierdoor blijft het werk gerichter, overzichtelijker en ook wat makkelijker voor mijzelf. Wanneer ik alles tegelijk wil maken, dan raak ik gefrustreerd en vooral gedemotiveerd. Ik probeer hiermee de draad weer goed op te pakken en stappen te zetten.
 
 ### Week-5 | 10 mei tot 14 mei
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
