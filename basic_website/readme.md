@@ -4,7 +4,7 @@
 
 ## Over
 * **Naam:** Kaylee Heilijgers
-* **Klas:** vid-1
+* **Klas:** VID-1
 * **Minor:** Visual Interface Design
 * **Favoriete dier:** "Ik kan niet zonder katten leven"
 * **Startniveau:** 
@@ -15,12 +15,7 @@
 _Concept 2.0:_\
 Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger. 
 \
-De interface die ik ga maken word geheel in dit thema ontworpen. Op de interface zal in verschillende trainingen visueel uitbeelden. De bezoeker kan uit verschillende trainingen kiezen. Wanneer ze een keuze hebben gemaakt zien ze vooral hoekige vormen in beeld komen. Deze vormen worden op het tempo van de training kapot geslagen. Hierbij maak ik gebruik van kickbokstrainingen die ik zelf heb gedaan of doe. De figuren verschijnen langzaam en worden explosief (net als kickboksen) kapot geslagen of geschopt.
-
-\
-_( De bezoeker kan invullen hoeveel slagen of schoppen er moeten komen. Elke slag of schop vormt een ander figuur, al deze figuren bij elkaar vormen een eigen kunstwerk. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven )_
-
-_( De bezoeker kan kiezen tussen een aantal slagen of schoppen, maar deze word elke keer op een andere manier vormgegeven. De manier waarop de figuren opkomen is nog wel hetzelfde als hierboven)_
+Op mijn interface krijgt de bezoeker eerst de keuze tussen 2 vormen, een vierkant of een cirkel. De vierkant staat voor grote frustraties en de cirkel voor kleinere. De vierkant heeft namelijk een hardere vorm dan de ronde vorm van de cirkel. Wanneer de bezoeker een keuze heeft gemaakt ziet diegene het figuur in 3D. Dit 3D-figuur beweegt/draait om zijn eigen as. Deze beweging is de beweging die je maakt tijdens een kickbokstraining. Wanneer ik een zaktraining volg dan beweeg ik, maar blijf ik altijd op mijn plek staan. Wanneer je [TRIGGER] zal de explosie van start gaan. Deze explosie is de explosie van een trap of slag. Hieruit komt een generatief partoon/kunstwerk. Elke keer wanneer de bezoeker de [TRIGGER] zal er een andere uitkomst uitkomen.
 
 \
 _Concept 1.0:_\
@@ -71,10 +66,18 @@ Mijn ideetjes:\
 Deze week heb ik mijn concept aangescherpt en ook veranderd. Het eerste idee was met woorden die rond zweven, maar dit wilde ik eigenlijk niet te letterlijk doen. Hierbij kwam ik er achter dat ik op Pinterest vooral de hoekige vormen enzovoort erg leuk vond, wat natuurlijk met p5.js gemaakt is. Deze twee dingen heb ik dan ook gecombineerd. Eigenlijk had ik deze al moeten beginnen met het maken van mijn concept, maar ik ben blij dat ik hem eerst nog heb kunnen aanpassen. Nu kan ik mij volledig focussen op het coderen ervan.
 
 ### Week-3 | 26 april tot 30 april
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Ook deze week ging wat minder soepel dan verwacht. In mijn ogen was het concept nog niet helemaal af, ik was er niet tevreden mee en zag het nog niet voor mij. Tijdens de feedbackles heb ik dan ook mijn kans benut en hier wat vragen overgesteld. Samen met Danny heb ik mijn concept meer vormgegeven en concreet gemaakt.\
+Om het concept voor ogen te krijgen voor mijzelf heb ik wat schetsen gemaakt waar ik mij goed aan kan houden tijdens het coderen:\
+FOTO 1 [HOME PAGE MET KEUZE TUSSEN TWEE VORMEN / KLEUREN]\
+FOTO 2 [DE VORM IN 3D GEMAAKT, BEWEGEND]\
+FOTO 3 [EVENTUELE INSTRUCTIES VOOR BEZOEKERS]\
+FOTO 4 [DE VORM DIE MET EEN EXPLOSIE TOT EEN GENERATIEVE POLYGON RESULTEERT]\
+FOTO 5 [TERUGPAGINA / BUTTON]\
+
+Helaas dringt de tijd wel en moet ik veel vaart maken in het coderen van mijn concept. Hard aan de slag dus.
 
 ### Week-4 | Vakantie
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Tijdens het coderen heb ik wat ups en downs gehad, zoals verwacht natuurlijk. Oneindig veel YouTube-video's kijken en Google helpen mij wel goed op weg. Toch blijft het nog een lastig vak. Na een slechte dag, van de hele dag coderen en bij het zelfde punt als aan het begin van de dag te eindigen, heb ik het roer om gegooid. Ik focus mij eerst op de losse onderdelen. Eerst maak ik de homepage met de keuzes en een hover. Vervolgens maak ik de pagina met de 3D vormen en dan de pagina met de generatieve explosie. Hierna ga ik pas goed kijken hoe ik deze onderdelen aan elkaar kan koppelen. Hierdoor blijft het werk gerichter, overzichtelijker en ook wat makkelijker voor mijzelf. Wanneer ik alles tegelijk wil maken, dan raak ik gefrustreerd en vooral gedemotiveerd. Ik probeer hiermee de draad weer goed op te pakken en stappen te zetten.
 
 ### Week-5 | 10 mei tot 14 mei
 `Wat heb je gedaan? Wat ging goed? Wat kon beter?`
