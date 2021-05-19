@@ -73,7 +73,6 @@
 var scene1 = true;
 var scene2 = false;
 
-
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
    angleMode(DEGREES)
@@ -90,63 +89,82 @@ const faces = [
 const edgeLength = 180;
 const explodeFactor = 1.2;
 const animationFrames = 300;
-const transparency = 0.5;
+const transparency = 0.8;
 
 function draw() {
   background(0, 30, 40);
 
-
   if (scene1 == true) {
-    // draw scene 1
-
-    const doneness = min(frameCount/ animationFrames, 1);
-    background('black');
-    noStroke();
-    rotateY(frameCount);
-    faces.forEach(face => {
-      fill(`rgba(${face[3]}, ${transparency})`);
-      push();
-      [rotateX, rotateY, rotateZ].forEach((fn, i) => 
-        fn(face[i] * doneness));
-      translate(0, 0, edgeLength / 2 * explodeFactor * doneness);
-      plane(edgeLength);
-      pop();
-    });
-
-  } else if (scene2 == true) {
-    // draw scene 2
     push();
     fill(0,0,255);
     rotateX(frameCount * 2);
     rotateY(frameCount * 2);
-    box(100);
+    box(150);
     
     fill(255,0,0);
     rotateX(frameCount * 2);
     rotateY(frameCount * 2);
-    box(100);
+    box(150);
  
     fill(100,100,100);
     rotateX(frameCount * 2);
     rotateY(frameCount * 2);
-    box(100);
+    box(150);
     pop();
+    // draw scene 1
+
+    // const doneness = min(frameCount/ animationFrames, 1);
+    // background('black');
+    // noStroke();
+    // rotateY(frameCount);
+    // faces.forEach(face => {
+    //   fill(`rgba(${face[3]}, ${transparency})`);
+    //   push();
+    //   [rotateX, rotateY, rotateZ].forEach((fn, i) => 
+    //     fn(face[i] * doneness));
+    //   translate(0, 0, edgeLength / 2 * explodeFactor * doneness);
+    //   plane(edgeLength);
+    //   pop();
+    // });
+
+  } else if (scene2 == true) {
+    // draw scene 2
+    translate(-100,0, 0);
+    push();
+    fill(255,0,0);
+    rotateZ(frameCount * 2);
+    rotateX(frameCount * 2);
+    rotateY(frameCount * 2);
+    box(150);
+    pop();
+  
+    translate(100, 0, 0);
+    push();
+    fill(0,0,255);
+    rotateZ(frameCount * 2);
+    rotateX(frameCount * 2);
+    rotateY(frameCount * 2);
+    box(150);
+    pop();
+  
+    translate(100, 0, 0);
+    push();
+    fill(200)
+    rotateZ(frameCount * 2);
+    rotateX(frameCount * 2);
+    rotateY(frameCount * 2);
+    box(150);
+    pop();
+  
     
-  } else if(scene3 == true){
-    // draw scene 3
-	background(255,0,0);
-  }
+  } 
 
 }
 
 function keyPressed(keyCode = RIGHT_ARROW) {
   if (scene1 == true) {
       scene2 = true;
-    } else if (scene2 == true) {
-      scene1 = false;
-    }
-    // turn scene 1 off
-    scene1 = false;
+    } scene1 = false;
   } 
 
 
