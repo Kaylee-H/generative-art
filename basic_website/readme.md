@@ -13,9 +13,9 @@
 
 **"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**\
 _Concept 2.0:_\
-Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger. 
+Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger.
 \
-Op mijn interface krijgt de bezoeker eerst de keuze tussen 2 vormen, een vierkant of een cirkel. De vierkant staat voor grote frustraties en de cirkel voor kleinere. De vierkant heeft namelijk een hardere vorm dan de ronde vorm van de cirkel. Wanneer de bezoeker een keuze heeft gemaakt ziet diegene het figuur in 3D. Dit 3D-figuur beweegt/draait om zijn eigen as. Deze beweging is de beweging die je maakt tijdens een kickbokstraining. Wanneer ik een zaktraining volg dan beweeg ik, maar blijf ik altijd op mijn plek staan. Wanneer je [TRIGGER] zal de explosie van start gaan. Deze explosie is de explosie van een trap of slag. Hieruit komt een generatief partoon/kunstwerk. Elke keer wanneer de bezoeker de [TRIGGER] zal er een andere uitkomst uitkomen.
+Op mijn interface zie je eerst een 3D-figuur die om zijn eigen as draait. Wanneer je een bepaalde keycode invoerd zal de explosie van start gaan. Deze bestaat uit kleine boxen die over het hele scherm weg geslagen worden. Hieruit komt een generatief kunstwerk. Elke keer wanneer de bezoeker de trigger activeert zal er een andere uitkomst uitkomen. Hierbij moet de bezoeker ook weer een trigger gebruiken om de explosie weer in te dammen.
 
 \
 _Concept 1.0:_\
@@ -25,11 +25,10 @@ Over het hele scherm zullen er woorden zweven, woorden van frustraties. Wanneer 
 
 
 ## Features
+De interactie ligt zich vooral bij het starten en herstarten van de explosie. Zo moet je eerst de explosie starten met een trigger, maar moet je ook vervolgens de andere trigger gebruiken om de explosie weer in te dammen. Pas hierna kan je weer refreshen en een nieuwe explosie vormgeven.
 
-`Wat zijn de features in het project dat je gemaakt hebt? Waar kan ik op klikken? Waar zit de interactie?`
 
 ## Onderzoek & inspiratie
-`Schrijf wat over je onderzoek en je inspiratie voor het project. Hoe kwam je concept tot stand?`\
 Tijdens mijn onderzoek ben ik veel voorbeelden gaan opzoeken, omdat het nog erg onbekend terrein is voor mij. De volgende linkjes heb ik opgeslagen, omdat deze mij inspireerde of aanspraken:
 * https://timrodenbroeker.de/the-bach-project/
 * https://www.behance.net/gallery/60533777/MAIN-FIELD
@@ -45,7 +44,7 @@ Tijdens mijn onderzoek ben ik veel voorbeelden gaan opzoeken, omdat het nog erg 
 * https://graphicbeats.net/
 \
 
-Hierna ben ik gaan nadenken hoe ik dit persoonlijk kan maken. Op mijn Pinterest bord had ik vooral  grafische vormen opgeslagen. Waarbij deze soms wel bewegen en soms juist heel statisch zijn. Ze strakke lijnen waren een terugkerend onderdeel. Tijdens het brainstormen trok ik snel de link tussen de strakke lijnen en kickboksen. De lijnen zijn strak, hoekig en vaak met veel contrast afgebeeld. De sport kickboksen is ook vrij strak en hoekig. Waarbij je afwisseld van zachte slagen tot explosievere slagen. Zo kan ik goed mijn trainingen visueel maken door middel van Generative Art.
+Hierna ben ik gaan nadenken hoe ik dit persoonlijk kan maken. Op mijn Pinterest bord had ik vooral  grafische vormen opgeslagen. Waarbij deze soms wel bewegen en soms juist heel statisch zijn. Ze strakke lijnen waren een terugkerend onderdeel. Tijdens het brainstormen trok ik snel de link tussen de strakke lijnen en kickboksen. De lijnen zijn strak, hoekig en vaak met veel contrast afgebeeld. De sport kickboksen is ook vrij strak en hoekig. Waarbij je afwisseld van zachte slagen tot explosievere slagen. Deze sport wil ik visualiseren door middel van 3D-boxen.
 
 
 ## Voortang
@@ -67,20 +66,13 @@ Deze week heb ik mijn concept aangescherpt en ook veranderd. Het eerste idee was
 
 ### Week-3 | 26 april tot 30 april
 Ook deze week ging wat minder soepel dan verwacht. In mijn ogen was het concept nog niet helemaal af, ik was er niet tevreden mee en zag het nog niet voor mij. Tijdens de feedbackles heb ik dan ook mijn kans benut en hier wat vragen overgesteld. Samen met Danny heb ik mijn concept meer vormgegeven en concreet gemaakt.\
-Om het concept voor ogen te krijgen voor mijzelf heb ik wat schetsen gemaakt waar ik mij goed aan kan houden tijdens het coderen:\
-FOTO 1 [HOME PAGE MET KEUZE TUSSEN TWEE VORMEN / KLEUREN]\
-FOTO 2 [DE VORM IN 3D GEMAAKT, BEWEGEND]\
-FOTO 3 [EVENTUELE INSTRUCTIES VOOR BEZOEKERS]\
-FOTO 4 [DE VORM DIE MET EEN EXPLOSIE TOT EEN GENERATIEVE POLYGON RESULTEERT]\
-FOTO 5 [TERUGPAGINA / BUTTON]\
-
-Helaas dringt de tijd wel en moet ik veel vaart maken in het coderen van mijn concept. Hard aan de slag dus.
+Om het concept voor ogen te krijgen voor mijzelf heb ik wat schetsen gemaakt waar ik mij goed aan kan houden tijdens het coderen. Helaas dringt de tijd wel en moet ik veel vaart maken in het coderen van mijn concept. Hard aan de slag dus.
 
 ### Week-4 | Vakantie
 Tijdens het coderen heb ik wat ups en downs gehad, zoals verwacht natuurlijk. Oneindig veel YouTube-video's kijken en Google helpen mij wel goed op weg. Toch blijft het nog een lastig vak. Na een slechte dag, van de hele dag coderen en bij het zelfde punt als aan het begin van de dag te eindigen, heb ik het roer om gegooid. Ik focus mij eerst op de losse onderdelen. Eerst maak ik de homepage met de keuzes en een hover. Vervolgens maak ik de pagina met de 3D vormen en dan de pagina met de generatieve explosie. Hierna ga ik pas goed kijken hoe ik deze onderdelen aan elkaar kan koppelen. Hierdoor blijft het werk gerichter, overzichtelijker en ook wat makkelijker voor mijzelf. Wanneer ik alles tegelijk wil maken, dan raak ik gefrustreerd en vooral gedemotiveerd. Ik probeer hiermee de draad weer goed op te pakken en stappen te zetten.
 
 ### Week-5 | 10 mei tot 14 mei
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+De deadlines hijgen in mijn nek en ik moet echt grote stappen gaan maken. Aan de ideeen ligt het niet, het is de uitwerking die mij tegenhoud. Ik heb veel ideetjes, maar de uitwerking lukt mij vrij wel nooit, zoals ik het wil. Tijdens de les heb ik wat werk kunnen zien van mijn medestudenten. De stress schoot er alleen maar meer in. Ik moest mijn idee wat aanpassen zodat ik de deadline zou gaan halen.
 
 ### Week-6 | 17 mei tot 20 mei | Eindbeoordeling
-`Wat heb je gedaan? Wat ging goed? Wat kon beter?`
+Op dit moment gaat het allemaal erg lastig. Het eindproduct is niet volledig en het werkt allemaal niet goed mee. Helaas.. Wel heb ik nog goede feedback mogen ontvangen over mijn idee. Ik liep vast en blokeerde mijzelf. 
