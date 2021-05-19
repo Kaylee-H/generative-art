@@ -16,59 +16,145 @@
 //   background(255,0,0);
 // }
 
-let detailY;
-var t;
+// let detailY;
+// var t;
 
-function setup() {
-  createCanvas(windowWidth, windowHeight, WEBGL);  
-  stroke(0, 100);
-  noFill();
-}
+// function setup() {
+//   createCanvas(windowWidth, windowHeight, WEBGL);  
+//   stroke(0, 100);
+//   noFill();
+// }
 
-function draw() {
-  background(0);
+// function draw() {
+//   background(0);
 
-  let lightX = mouseX - height / 2;
-  let lightY = mouseY - width / 2;
+//   let lightX = mouseX - height / 2;
+//   let lightY = mouseY - width / 2;
 
-  ambientLight(255);
-  directionalLight (250,250,250,2,2,2);
-  pointLight (255,255,255,lightX,lightY,255);
+//   ambientLight(255);
+//   directionalLight (250,250,250,2,2,2);
+//   pointLight (255,255,255,lightX,lightY,255);
 
-  fill(255,0,0);
-  rotateX(frameCount * 0.01);
-  rotateY(frameCount * 0.01);
-  box(100);
+//   fill(255,0,0);
+//   rotateX(frameCount * 0.01);
+//   rotateY(frameCount * 0.01);
+//   box(100);
 
-  fill(0,0,255);
-  rotateX(frameCount * 0.03);
-  rotateY(frameCount * 0.01);
-  box(100);
+//   fill(0,0,255);
+//   rotateX(frameCount * 0.03);
+//   rotateY(frameCount * 0.01);
+//   box(100);
 
-  fill(100,100,100);
-  rotateX(frameCount * 0.01);
-  rotateY(frameCount * 0.02);
-  box(100);
-  } 
+//   fill(100,100,100);
+//   rotateX(frameCount * 0.01);
+//   rotateY(frameCount * 0.02);
+//   box(100);
+//   } 
 
-    function mousePressed(){
-    if (mouseX < width/2) {
-      translate (100,100);
-      fill(255,0,0);
-      stroke(255,0,0);
-      square(230,190,200);
-    } else if (mouseX <= width*2) {
-      stroke(0,0,255);
-      strokeWeight(5);
+//     function mousePressed(){
+//     if (mouseX < width/2) {
+//       translate (100,100);
+//       fill(255,0,0);
+//       stroke(255,0,0);
+//       square(230,190,200);
+//     } else if (mouseX <= width*2) {
+//       stroke(0,0,255);
+//       strokeWeight(5);
      
-    }
+//     }
 
-  }
+//   }
 
    
 // function windowResized() {
 //   resizeCanvas(windowWidth, windowHeight);
 // }
+
+var scene1 = true;
+var scene2 = false;
+
+
+function setup() {
+  createCanvas(windowWidth, windowHeight, WEBGL);
+   angleMode(DEGREES)
+}
+
+const faces = [
+  [0,   0, 0, '255, 0, 0'],
+  [0,  90, 0, '0, 255, 0'],
+  [0, 180, 0, '255, 0, 0'],
+  [0, -90, 0, '0, 255, 0'],
+  [90,  0, 0, '0, 0, 255'],
+  [270, 0, 0, '0, 0, 255'],
+  ];
+const edgeLength = 180;
+const explodeFactor = 1.2;
+const animationFrames = 300;
+const transparency = 0.5;
+
+function draw() {
+  background(0, 30, 40);
+
+
+  if (scene1 == true) {
+    // draw scene 1
+
+    const doneness = min(frameCount/ animationFrames, 1);
+    background('black');
+    noStroke();
+    rotateY(frameCount);
+    faces.forEach(face => {
+      fill(`rgba(${face[3]}, ${transparency})`);
+      push();
+      [rotateX, rotateY, rotateZ].forEach((fn, i) => 
+        fn(face[i] * doneness));
+      translate(0, 0, edgeLength / 2 * explodeFactor * doneness);
+      plane(edgeLength);
+      pop();
+    });
+
+  } else if (scene2 == true) {
+    // draw scene 2
+    push();
+    fill(0,0,255);
+    rotateX(frameCount * 2);
+    rotateY(frameCount * 2);
+    box(100);
+    
+    fill(255,0,0);
+    rotateX(frameCount * 2);
+    rotateY(frameCount * 2);
+    box(100);
+ 
+    fill(100,100,100);
+    rotateX(frameCount * 2);
+    rotateY(frameCount * 2);
+    box(100);
+    pop();
+    
+  } else if(scene3 == true){
+    // draw scene 3
+	background(255,0,0);
+  }
+
+}
+
+function keyPressed(keyCode = RIGHT_ARROW) {
+  if (scene1 == true) {
+      scene2 = true;
+    } else if (scene2 == true) {
+      scene1 = false;
+    }
+    // turn scene 1 off
+    scene1 = false;
+  } 
+
+
+
+
+
+
+
 
 
 
