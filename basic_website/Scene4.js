@@ -1,14 +1,12 @@
 let balls = [];
 let r, g, b;
+let explosion; 
+let bang;
 
-// Image by Pixabay https://pixabay.com/users/OpenClipart-Vectors-30363
-// Sound by Johan Deecke https://freesound.org/people/JohanDeecke/sounds/369528/
-let explosion, bang;
-
-// function preload() {
-//   explosion = loadImage ('explosion.png');
-//   // bang = loadSound('bang.wav');
-// }
+function preload() {
+  explosion = loadImage("Gek.png");
+  bang = loadSound("Raar.wav");
+}
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
