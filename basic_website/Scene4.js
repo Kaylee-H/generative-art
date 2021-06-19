@@ -5,11 +5,11 @@ let r, g, b;
 // Sound by Johan Deecke https://freesound.org/people/JohanDeecke/sounds/369528/
 let explosion, bang;
 
-// function preload() {
-//   // Load the assets used in the sketch so they're ready by setup()
-//   explosion = loadImage('explosion.png');
-//   bang = loadSound('bang.wav');
-// }
+function preload() {
+  // Load the assets used in the sketch so they're ready by setup()
+  explosion = loadImage("explosion.png");
+  // bang = loadSound('bang.wav');
+}
 
 function setup() {
   createCanvas(400, 500);
