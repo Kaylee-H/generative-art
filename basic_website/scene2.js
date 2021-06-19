@@ -3,7 +3,6 @@
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
    angleMode(DEGREES);
-   fading = false;
 }
 
 function draw() {
