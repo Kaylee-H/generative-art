@@ -5,21 +5,20 @@ let r, g, b;
 // Sound by Johan Deecke https://freesound.org/people/JohanDeecke/sounds/369528/
 let explosion, bang;
 
-function preload() {
-  // Load the assets used in the sketch so they're ready by setup()
-  explosion = loadImage("explosion.png");
-  // bang = loadSound('bang.wav');
-}
+// function preload() {
+//   explosion = loadImage ('explosion.png');
+//   // bang = loadSound('bang.wav');
+// }
 
 function setup() {
-  createCanvas(400, 500);
-    r = random(255);
+  createCanvas(windowWidth, windowHeight);
+  r = random(255);
   g = random(255);
   b = random(255);
 }
 
 function draw() {
-  background(241, 241, 239);
+  background(0, 30, 40);
 
   // Display all balls, update their positions
   for (let ball of balls) {
@@ -54,7 +53,7 @@ function alive(ball) {
 
 function mousePressed() {
   balls.push(new Ball(mouseX, mouseY, random(-4, 4), random(-4, 4)));
-     r = random(255);
+    r = random(255);
     g = random(255);
     b = random(255);
 }
