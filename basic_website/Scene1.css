@@ -16,3 +16,15 @@
   display: block;
   font-size: 20px;
 }
+
+.body {
+  background-color: black;
+  animation: fadeinout 2.5s linear forwards;
+	opacity: 1;
+}
+
+@keyframes fadeinout{
+	50% {
+		opacity: 1;
+	}
+}
