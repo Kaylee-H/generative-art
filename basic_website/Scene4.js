@@ -66,7 +66,7 @@ function draw() {
       }
     }
     // Remove all the dead balls from the array by checking their 'alive' variable
-    vorm = vorms.filter(alive);
+    vorms = vorms.filter(alive);
   } 
 }
 
