@@ -10,16 +10,19 @@
 * **Startniveau:beginner 
 
 ## Herkansing
+Tijdens de herkansing heb ik mijn concept nog hetzelfde gelaten. Wel heb ik een storyboard gemaakt zodat ik niet nog een keer de focus verlies van het maken van mijn generatieve kunstwerk. Door het storyboard kon ik mij goed vastklampen aan dat idee en dit ook per stap uitvoeren. Hieronder kan je nog een keer mijn concept lezen. Daaronder staat nog mijn proces van de eerste keer. Het enige wat ik veranderd heb ik mijn werkwijze, door middel van het storyboard en kleinere stappen.
 
 ## Concept
 
-**"Kick your frustrations" / "Kick some ass" / "Fight your frustrations"**\
+**"Kick your frustrations"**\
 _Concept 2.0:_\
 Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger.
 \
-Op mijn interface zie je eerst een 3D-figuur die om zijn eigen as draait. Wanneer je een bepaalde keycode invoerd zal de explosie van start gaan. Deze bestaat uit kleine boxen die over het hele scherm weg geslagen worden. Hieruit komt een generatief kunstwerk. Elke keer wanneer de bezoeker de trigger activeert zal er een andere uitkomst uitkomen. Hierbij moet de bezoeker ook weer een trigger gebruiken om de explosie weer in te dammen.
+[Storyboard.pdf](https://github.com/Kaylee-H/generative-art/files/6680411/Storyboard.pdf)
 
-\
+
+
+## Proces eerste keer
 _Concept 1.0:_\
 Het laatste jaar liggen de frustraties hoog bij iedereen. Maar ook voor de Corona-tijden heeft iedereen wel zo zijn of haar frustraties. Via de sport kickboksen kon ik altijd goed mijn frustraties kwijt, ik kon ze er uit slaan en trappen. Helaas kan ik al enige tijd deze sport niet meer uitoefenen als gevolg van de corona-maatregelen.Ik hoor steeds meer mensen die last hebben van de opbouwende frustraties. Dit wilde ik graag door een soort game verlichten, in combinatie met de sport kickboksen. 
 \
