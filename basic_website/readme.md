@@ -7,7 +7,9 @@
 * **Klas:** VID-1
 * **Minor:** Visual Interface Design
 * **Favoriete dier:** "Ik kan niet zonder katten leven"
-* **Startniveau:** 
+* **Startniveau:beginner 
+
+## Herkansing
 
 ## Concept
 
