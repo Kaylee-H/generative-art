@@ -4,11 +4,6 @@ let r, g, b;
 let explosion; 
 let bang;
 
-// function preload() {
-//   explosion = loadImage('file:///Users/kheilijgers/Documents/HvA/Minor%20VID/Generative%20art/%3F/generative-art/basic_website/Gek.png')
-//   // bang = loadSound('Raar.wav');
-// }
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   r = random(255);
@@ -34,10 +29,6 @@ function draw() {
         // Draw the explosion at the midpoint of the collision
         let midX = (ball.x + other.x) / 2;
         let midY = (ball.y + other.y) / 2;
-        // image(explosion, midX - explosion.width / 2, midY - explosion.height / 2);
-      
-        // Play a sound
-        // bang.play();
       }
     }
     // Remove all the dead balls from the array by checking their 'alive' variable
@@ -59,10 +50,6 @@ function draw() {
         // Draw the explosion at the midpoint of the collision
         let midX = (vorm.x + other.x) / 2;
         let midY = (vorm.y + other.y) / 2;
-        // image(explosion, midX - explosion.width / 2, midY - explosion.height / 2);
-      
-        // Play a sound
-        // bang.play();
       }
     }
     // Remove all the dead balls from the array by checking their 'alive' variable

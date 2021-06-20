@@ -1,5 +1,5 @@
 
-
+let r,g,b;
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
    angleMode(DEGREES);
@@ -10,7 +10,10 @@ function draw() {
 
     push();
     translate(0,25);
-    fill(0,0,255);
+    fill(r,g,b);
+    r = random(255);
+    g = random(255);
+    b = random(255);
     rotateX(frameCount * 2);
     rotateY(frameCount * 2);
     box(140);
@@ -26,7 +29,7 @@ function draw() {
  
     push();
     translate(100,25);
-    fill(100,100,100);
+    fill(0,0,255);
     rotateX(frameCount * 2);
     rotateY(frameCount * 2);
     box(140);
