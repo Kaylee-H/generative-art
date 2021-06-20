@@ -7,7 +7,7 @@
 * **Klas:** VID-1
 * **Minor:** Visual Interface Design
 * **Favoriete dier:** "Ik kan niet zonder katten leven"
-* **Startniveau:**beginner 
+* **Startniveau:** beginner 
 
 ## Herkansing
 Tijdens de herkansing heb ik mijn concept nog hetzelfde gelaten. Wel heb ik een storyboard gemaakt zodat ik niet nog een keer de focus verlies van het maken van mijn generatieve kunstwerk. Door het storyboard kon ik mij goed vastklampen aan dat idee en dit ook per stap uitvoeren. Hieronder kan je nog een keer mijn concept lezen. Daaronder staat nog mijn proces van de eerste keer. Het enige wat ik veranderd heb ik mijn werkwijze, door middel van het storyboard en kleinere stappen.
