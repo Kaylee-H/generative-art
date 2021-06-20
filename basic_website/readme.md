@@ -11,11 +11,12 @@
 
 ## Herkansing
 Tijdens de herkansing heb ik mijn concept nog hetzelfde gelaten. Wel heb ik een storyboard gemaakt zodat ik niet nog een keer de focus verlies van het maken van mijn generatieve kunstwerk. Door het storyboard kon ik mij goed vastklampen aan dat idee en dit ook per stap uitvoeren. Hieronder kan je nog een keer mijn concept lezen. Daaronder staat nog mijn proces van de eerste keer. Het enige wat ik veranderd heb ik mijn werkwijze, door middel van het storyboard en kleinere stappen.
+\
+Ik heb in vergelijking met de eerste keer grote stappen gezet. De vorige keer had ik een paar losse dingen die geen geheel vormde. Dit keer heb ik alles goed samen kunnen voegen en is er een geheel ontstaan. Wel had het resultaat nog beter en vloeiender kunnen, hier had ik echt veel meer tijd voor nodig. Al met al ben ik trots op mijn resultaat. Ondanks dat het mij veel moeite kosten heb ik uiteindelijk toch het resultaat kunnen neerzetten, ook nog eens volgens het storyboard.
 
 ## Concept
 
 **"Kick your frustrations"**\
-_Concept 2.0:_\
 Al een aantal jaar doe ik aan de sport kickboksen. Ik kan mijn frustraties kwijt tijdens het slaan en schoppen van de bokszak. Met de sluiting van de sportscholen kan ik helaas deze sport niet meer of weinig beoefenen. De laatste maanden merk ik heel erg het gemis van deze wekelijkse training. Ik merk dat ik mijn frustraties minder goed kwijt kan, en laten we nou eerlijk zijn, met corona worden de frustraties alleen maar hoger.
 \
 [Storyboard.pdf](https://github.com/Kaylee-H/generative-art/files/6680411/Storyboard.pdf)
